@@ -1,0 +1,41 @@
+body {
+    background-color: antiquewhite;
+}
+
+
+.statecity{
+    margin-top: 40PX;
+}
+
+.willing{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.willing input{
+    margin-left: 20px;
+    margin-right: 20px;
+    max-width: 250px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid white;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+
+.willingbtn{
+    margin-top: 30px;
+    align-items: center;
+}
+
+.inputt{
+    margin-left: 10px;
+    height: 25px;
+    width: 25px;
+    accent-color: rgb(236, 34, 138);
+}
+

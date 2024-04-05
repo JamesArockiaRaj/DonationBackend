@@ -1,0 +1,46 @@
+.footer{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footer-info{
+    padding: 50px;
+}
+.footer-info h1,h2{
+    padding-bottom: 15px;
+    color: white;
+}
+.footer-info h4{
+    color: wheat;
+}
+
+.contact-icons{
+   padding: 30px;
+}
+
+.contact-icons img{
+    height: 60px;
+    width: 60px;
+    padding: 10px;
+
+}
+
+.footer-contact{
+    padding: 80px;
+}
+
+.footer-contact h4,h2{
+    padding-bottom: 15px;
+}
+
+.copyright{
+    padding-bottom: 15px;
+}
+
+
+#colorwheat{
+    color: wheat;
+    text-align: center;
+}
